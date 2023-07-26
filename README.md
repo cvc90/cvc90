@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">Bienvenido 👋, soy Carlos V.</h2>
 <h3 align="center">Técnico Superior de Sistemas Informáticos</h3>
-<h3 align="center">• Aplicaciones • Sistemas • Redes • Seguridad • Diseño • Mantenimiento</h3>
+<h3 align="center">• Aplicaciones • Cloud • Diseño • Mantenimiento • Redes • Seguridad • Sistemas • Web</h3>
 <br>
 <h3 align="left">¿Qué estoy haciendo aquí?</h3>
 
