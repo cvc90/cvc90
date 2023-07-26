@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 Siéntete libre de donar lo que quieras a las siguientes direcciones:
 
-- Bitcoin (BTC): `PROXIMAMENTE`
-- Ethereum (ETH): `PROXIMAMENTE`
-- Dash: `PROXIMAMENTE`
-- Zcash (ZEC): `PROXIMAMENTE`
-- XMR: `PROXIMAMENTE`
+- Bitcoin (BTC): `1BughfdxS2zpqZUhtS5jhkbxDWHhtqTaxN`
+- Ethereum (ETH): `0xbE3A0FcD3f1BB61CCeEC94Ab9FE683E071331E00`
+- Dash: `XjZgQAeVuLcfywDpp2JxfmpvQn3MrmAEC2`
+- Zcash (ZEC): `t1J5dnHVeaWvdv3L43A62fVC6YAajKFEMbX`
+- XMR: `47HLtavHyu2UgXVb4apyNnE55mqQTuy1fgPzbNYosqaRak7nkksoqj9enP4eMjBems4kM577T8yRZagnsyB5yrXP32cBN3F`
 - RTM: `RWRYFXpXwrWnWFzPSrp4oyCV6QYaWD3eqX`
 
 <h3 align="left">¿Algunas estadísticas sobre mí?</h3>
