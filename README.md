@@ -40,6 +40,6 @@ Siéntete libre de donar lo que quieras a las siguientes direcciones:
 <h3 align="left">¿Algunas estadísticas sobre mí?</h3>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=cvc90&show_icons=true&count_private=true&theme=tokyonight&custom_title=Estadísticas%20personales&line_height=24&border_color=30363d" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=cvc90&show_icons=true&count_private=true&theme=tokyonight&custom_title=Personals%20Stats&line_height=24&border_color=30363d" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvc90&langs_count=8&theme=tokyonight&layout=compact&border_color=30363d" /></a>
 </p>
