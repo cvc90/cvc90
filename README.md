@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Bienvenido 👋, soy Carlos V.</h2>
+<h2 align="center">👋 Bienvenido, soy Carlos V.</h2>
 <h3 align="center">Técnico Superior de Sistemas Informáticos</h3>
 <h3 align="center">• Aplicaciones • Cloud • Diseño • Mantenimiento • Redes • Seguridad • Sistemas • Web</h3>
 <br>
