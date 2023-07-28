@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 👯 I am happy to collaborate on projects related to __systems / security / hacking__
 - 📫 You can contact me through [Twitter](https://twitter.com/cvc90) and [Facebook](https://www.facebook.com/@cvc90) and  [Email (carlos@cvazquez.es)](mailto:carlos@cvazquez.es)
 
-h3 align="left">Do you want to support me or my projects?</h3>
+<h3 align="left">Do you want to support me or my projects?</h3>
 
 Feel free to donate whatever you want to the following addresses:
 
