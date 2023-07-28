@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <br>
 <h3 align="left">What am I doing here?</h3>
 
--🔭 I am currently looking for __remote job position__ 😉
--🌱 I am willing to learn __Python__ and I am also interested in learning __Golang__ and __Rust__
--👯 I am happy to collaborate on projects related to __systems / security / hacking__
--📫 You can contact me through [Twitter](https://twitter.com/cvc90) and [Facebook](https://www.facebook.com/@cvc90) and  [Email (carlos@cvazquez.es)](mailto:carlos@cvazquez.es)
+- 🔭 I am currently looking for __remote job position__ 😉
+- 🌱 I am willing to learn __Python__ and I am also interested in learning __Golang__ and __Rust__
+- 👯 I am happy to collaborate on projects related to __systems / security / hacking__
+- 📫 You can contact me through [Twitter](https://twitter.com/cvc90) and [Facebook](https://www.facebook.com/@cvc90) and  [Email (carlos@cvazquez.es)](mailto:carlos@cvazquez.es)
 
 h3 align="left">Do you want to support me or my projects?</h3>
 
