@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">What projects have I collaborated on?</h3>
 
-- [GTFS2 - Integration for Home Assistant](https://github.com/vingerha/gtfs2)
+- [GTFS2 - Integration for Home Assistant](https://github.com/vingerha/gtfs2/)
 - [Miele - Integration for Home Assistant](https://github.com/astrandb/miele/)
 - [Team Tracker - Integration for Home Assistant](https://github.com/vasqued2/ha-teamtracker/)
-- [Flightradar24 - Integration for Home Assistant](https://github.com/AlexandrErohin/home-assistant-flightradar24)
-- [HADailySensor - Integration for Home Assistant](https://github.com/jeroenterheerdt/HADailySensor)
+- [Flightradar24 - Integration for Home Assistant](https://github.com/AlexandrErohin/home-assistant-flightradar24/)
+- [HADailySensor - Integration for Home Assistant](https://github.com/jeroenterheerdt/HADailySensor/)
 - [Gismeteo Weather Provider - Integration for Home Assistant](https://github.com/Limych/ha-gismeteo/)
-- [NetAlertX - Network security scanner & notification framework](https://github.com/jokob-sk/NetAlertX)
+- [NetAlertX - Network security scanner & notification framework](https://github.com/jokob-sk/NetAlertX/)
 
 <h3 align="left">Do you want to support me or my projects?</h3>
 
@@ -126,13 +126,13 @@ Feel free to donate whatever you want to the following addresses:
 
 <h3 align="left">¿En qué proyectos he colaborado?</h3>
 
-- [GTFS2 - Integración para Home Assistant](https://github.com/vingerha/gtfs2)
+- [GTFS2 - Integración para Home Assistant](https://github.com/vingerha/gtfs2/)
 - [Miele - Integración para Home Assistant](https://github.com/astrandb/miele/)
 - [Team Tracker - Integración para Home Assistant](https://github.com/vasqued2/ha-teamtracker/)
-- [Flightradar24 - Integración para Home Assistant](https://github.com/AlexandrErohin/home-assistant-flightradar24)
-- [HADailySensor - Integración para Home Assistant](https://github.com/jeroenterheerdt/HADailySensor)
+- [Flightradar24 - Integración para Home Assistant](https://github.com/AlexandrErohin/home-assistant-flightradar24/)
+- [HADailySensor - Integración para Home Assistant](https://github.com/jeroenterheerdt/HADailySensor/)
 - [Gismeteo Weather Provider - Integración para Home Assistant](https://github.com/Limych/ha-gismeteo/)
-- [NetAlertX - Escáner de seguridad de red y framework de notificaciones](https://github.com/jokob-sk/NetAlertX)
+- [NetAlertX - Escáner de seguridad de red y framework de notificaciones](https://github.com/jokob-sk/NetAlertX/)
 
 <h3 align="left">¿Quiere apoyarme a mí o a mis proyectos?</h3>
 
