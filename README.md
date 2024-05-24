@@ -24,6 +24,16 @@ Here are some ideas to get you started:
 - 👯 I am happy to collaborate on projects related to __systems / security / hacking__
 - 📫 You can contact me through [Twitter](https://twitter.com/cvc90) and [Facebook](https://www.facebook.com/@cvc90) and  [Email (carlos@cvazquez.es)](mailto:carlos@cvazquez.es)
 
+<h3 align="left">What projects have I collaborated on?</h3>
+
+- [GTFS2 - Integration for Home Assistant](https://github.com/vingerha/gtfs2)
+- [Miele - Integration for Home Assistant](https://github.com/astrandb/miele/)
+- [Team Tracker - Integration for Home Assistant](https://github.com/vasqued2/ha-teamtracker/)
+- [HADailySensor - Integration for Home Assistant](https://github.com/jeroenterheerdt/HADailySensor)
+- [Gismeteo Weather Provider - Integration for Home Assistant](https://github.com/Limych/ha-gismeteo/)
+- [NetAlertX - Network security scanner & notification framework](https://github.com/jokob-sk/NetAlertX)
+- [Flightradar24 - Integration for Home Assistant](https://github.com/AlexandrErohin/home-assistant-flightradar24)
+
 <h3 align="left">Do you want to support me or my projects?</h3>
 
 Feel free to donate whatever you want to the following addresses:
@@ -99,6 +109,16 @@ Feel free to donate whatever you want to the following addresses:
 - 🌱 Estoy dispuesto a aprender __Python__ y también me interesa aprender __Golang__ y __Rust__
 - 👯 Estoy feliz de colaborar en proyectos relacionados con __sistemas / seguridad / hacking__
 - 📫 Puedes contactarme a través de [Twitter](https://twitter.com/cvc90) y [Facebook](https://www.facebook.com/@cvc90) y [Correo (carlos@cvazquez.es)](mailto:carlos@cvazquez.es)
+
+<h3 align="left">¿En qué proyectos he colaborado?</h3>
+
+- [GTFS2 - Integration for Home Assistant](https://github.com/vingerha/gtfs2)
+- [Miele - Integration for Home Assistant](https://github.com/astrandb/miele/)
+- [Team Tracker - Integration for Home Assistant](https://github.com/vasqued2/ha-teamtracker/)
+- [HADailySensor - Integration for Home Assistant](https://github.com/jeroenterheerdt/HADailySensor)
+- [Gismeteo Weather Provider - Integration for Home Assistant](https://github.com/Limych/ha-gismeteo/)
+- [NetAlertX - Network security scanner & notification framework](https://github.com/jokob-sk/NetAlertX)
+- [Flightradar24 - Integration for Home Assistant](https://github.com/AlexandrErohin/home-assistant-flightradar24)
 
 <h3 align="left">¿Quiere apoyarme a mí o a mis proyectos?</h3>
 
