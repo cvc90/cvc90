@@ -119,10 +119,10 @@ Feel free to donate whatever you want to the following addresses:
 
 <h3 align="left">¿Qué proyectos he creado?</h3>
 
-- [HASS-BlueCon - Integración para Home Assistant](https://github.com/cvc90/HASS-BlueCon)
-- [HA-Blueprints - Colección de blueprints para Home Assistant](https://github.com/cvc90/HA-Blueprints)
-- [Cloudflare-CLI - Utilidad CLI que gestiona los servicios de Cloudflare a través de la API de Cloudflare](https://github.com/cvc90/Cloudflare-CLI)
-- [Fermax Blue Intercom Script - Utilidad CLI que gestiona los servicios Fermax Blue a través de la API Fermax Blue](https://github.com/cvc90/Fermax-Blue-Intercom)
+- [HASS-BlueCon - Integración para Home Assistant](https://github.com/cvc90/HASS-BlueCon/)
+- [HA-Blueprints - Colección de blueprints para Home Assistant](https://github.com/cvc90/HA-Blueprints/)
+- [Cloudflare-CLI - Utilidad CLI que gestiona los servicios de Cloudflare a través de la API de Cloudflare](https://github.com/cvc90/Cloudflare-CLI/)
+- [Fermax Blue Intercom Script - Utilidad CLI que gestiona los servicios Fermax Blue a través de la API Fermax Blue](https://github.com/cvc90/Fermax-Blue-Intercom/)
 
 <h3 align="left">¿En qué proyectos he colaborado?</h3>
 
