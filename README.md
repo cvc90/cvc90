@@ -24,6 +24,13 @@ Here are some ideas to get you started:
 - 👯 I am happy to collaborate on projects related to __systems / security / hacking__
 - 📫 You can contact me through [Twitter](https://twitter.com/cvc90) and [Facebook](https://www.facebook.com/@cvc90) and  [Email (carlos@cvazquez.es)](mailto:carlos@cvazquez.es)
 
+<h3 align="left">What projects have I created?</h3>
+
+- [HASS-BlueCon - Integration for Home Assistant](https://github.com/cvc90/hass-bluecon)
+- [HA-Blueprints - Collection blueprints for Home Assistant](https://github.com/cvc90/hass-bluecon)
+- [Cloudflare-CLI - CLI utility that manages Cloudflare services through the Cloudflare API](https://github.com/cvc90/Cloudflare-CLI)
+- [Fermax Blue Intercom Script - CLI utility that manages Fermax Blue services through the Fermax Blue API](https://github.com/cvc90/Fermax-Blue-Intercom)
+
 <h3 align="left">What projects have I collaborated on?</h3>
 
 - [GTFS2 - Integration for Home Assistant](https://github.com/vingerha/gtfs2)
@@ -109,6 +116,13 @@ Feel free to donate whatever you want to the following addresses:
 - 🌱 Estoy dispuesto a aprender __Python__ y también me interesa aprender __Golang__ y __Rust__
 - 👯 Estoy feliz de colaborar en proyectos relacionados con __sistemas / seguridad / hacking__
 - 📫 Puedes contactarme a través de [Twitter](https://twitter.com/cvc90) y [Facebook](https://www.facebook.com/@cvc90) y [Correo (carlos@cvazquez.es)](mailto:carlos@cvazquez.es)
+
+<h3 align="left">¿Qué proyectos he creado?</h3>
+
+- [HASS-BlueCon - Integración para Home Assistant](https://github.com/cvc90/hass-bluecon)
+- [HA-Blueprints - Colección de blueprints para Home Assistant](https://github.com/cvc90/hass-bluecon)
+- [Cloudflare-CLI - Utilidad CLI que gestiona los servicios de Cloudflare a través de la API de Cloudflare](https://github.com/cvc90/Cloudflare-CLI)
+- [Fermax Blue Intercom Script - Utilidad CLI que gestiona los servicios Fermax Blue a través de la API Fermax Blue](https://github.com/cvc90/Fermax-Blue-Intercom)
 
 <h3 align="left">¿En qué proyectos he colaborado?</h3>
 
