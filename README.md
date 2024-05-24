@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">What projects have I created?</h3>
 
-- [HASS-BlueCon - Integration for Home Assistant](https://github.com/cvc90/HASS-BlueCon)
-- [HA-Blueprints - Collection blueprints for Home Assistant](https://github.com/cvc90/HA-Blueprints)
-- [Cloudflare-CLI - CLI utility that manages Cloudflare services through the Cloudflare API](https://github.com/cvc90/Cloudflare-CLI)
-- [Fermax Blue Intercom Script - CLI utility that manages Fermax Blue services through the Fermax Blue API](https://github.com/cvc90/Fermax-Blue-Intercom)
+- [HASS-BlueCon - Integration for Home Assistant](https://github.com/cvc90/HASS-BlueCon/)
+- [HA-Blueprints - Collection blueprints for Home Assistant](https://github.com/cvc90/HA-Blueprints/)
+- [Cloudflare-CLI - CLI utility that manages Cloudflare services through the Cloudflare API](https://github.com/cvc90/Cloudflare-CLI/)
+- [Fermax Blue Intercom Script - CLI utility that manages Fermax Blue services through the Fermax Blue API](https://github.com/cvc90/Fermax-Blue-Intercom/)
 
 <h3 align="left">What projects have I collaborated on?</h3>
 
