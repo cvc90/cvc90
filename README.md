@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">What projects have I created?</h3>
 
-- [HASS-BlueCon - Integration for Home Assistant](https://github.com/cvc90/hass-bluecon)
-- [HA-Blueprints - Collection blueprints for Home Assistant](https://github.com/cvc90/hass-bluecon)
+- [HASS-BlueCon - Integration for Home Assistant](https://github.com/cvc90/HASS-BlueCon)
+- [HA-Blueprints - Collection blueprints for Home Assistant](https://github.com/cvc90/HA-Blueprints)
 - [Cloudflare-CLI - CLI utility that manages Cloudflare services through the Cloudflare API](https://github.com/cvc90/Cloudflare-CLI)
 - [Fermax Blue Intercom Script - CLI utility that manages Fermax Blue services through the Fermax Blue API](https://github.com/cvc90/Fermax-Blue-Intercom)
 
@@ -119,8 +119,8 @@ Feel free to donate whatever you want to the following addresses:
 
 <h3 align="left">¿Qué proyectos he creado?</h3>
 
-- [HASS-BlueCon - Integración para Home Assistant](https://github.com/cvc90/hass-bluecon)
-- [HA-Blueprints - Colección de blueprints para Home Assistant](https://github.com/cvc90/hass-bluecon)
+- [HASS-BlueCon - Integración para Home Assistant](https://github.com/cvc90/HASS-BlueCon)
+- [HA-Blueprints - Colección de blueprints para Home Assistant](https://github.com/cvc90/HA-Blueprints)
 - [Cloudflare-CLI - Utilidad CLI que gestiona los servicios de Cloudflare a través de la API de Cloudflare](https://github.com/cvc90/Cloudflare-CLI)
 - [Fermax Blue Intercom Script - Utilidad CLI que gestiona los servicios Fermax Blue a través de la API Fermax Blue](https://github.com/cvc90/Fermax-Blue-Intercom)
 
