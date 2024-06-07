@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 - [HADailySensor - Integration for Home Assistant](https://github.com/jeroenterheerdt/HADailySensor/)
 - [Gismeteo Weather Provider - Integration for Home Assistant](https://github.com/Limych/ha-gismeteo/)
 - [NetAlertX - Network security scanner & notification framework](https://github.com/jokob-sk/NetAlertX/)
+- [OPcache-gui - A clean and responsive interface for Zend OPcache information](https://github.com/amnuts/opcache-gui/)
 
 <h3 align="left">Do you want to support me or my projects?</h3>
 
@@ -133,6 +134,7 @@ Feel free to donate whatever you want to the following addresses:
 - [HADailySensor - Integración para Home Assistant](https://github.com/jeroenterheerdt/HADailySensor/)
 - [Gismeteo Weather Provider - Integración para Home Assistant](https://github.com/Limych/ha-gismeteo/)
 - [NetAlertX - Escáner de seguridad de red y framework de notificaciones](https://github.com/jokob-sk/NetAlertX/)
+- [OPcache-gui - Una interfaz limpia y responsiva para la información de Zend OPcache](https://github.com/amnuts/opcache-gui/)
 
 <h3 align="left">¿Quiere apoyarme a mí o a mis proyectos?</h3>
 
