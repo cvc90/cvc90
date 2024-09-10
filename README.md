@@ -99,11 +99,16 @@ Feel free to donate whatever you want to the following addresses:
 
 
 <h3 align="left">Some stats about me?</h3>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=cvc90&show_icons=true&count_private=true&theme=tokyonight&custom_title=Personals%20Stats&line_height=24&border_color=30363d" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvc90&langs_count=8&theme=tokyonight&layout=compact&border_color=30363d" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/cvc90">
+  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvc90&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="140em" src="https://streak-stats.demolab.com?user=cvc90&theme=algolia" alt="GitHub Streak" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cvc90&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cvc90&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cvc90&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cvc90&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cvc90&theme=algolia">
+</div>
 <br><br>
 <h2 align="center">👋 Bienvenido, soy Carlos V.</h2>
 <h3 align="center">Técnico Superior de Sistemas Informáticos</h3>
@@ -193,8 +198,13 @@ Siéntete libre de donar lo que quieras a las siguientes direcciones:
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 <h3 align="left">¿Algunas estadísticas sobre mí?</h3>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api?username=cvc90&show_icons=true&count_private=true&theme=tokyonight&custom_title=Personals%20Stats&line_height=24&border_color=30363d" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvc90&langs_count=8&theme=tokyonight&layout=compact&border_color=30363d" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/cvc90">
+  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvc90&layout=compact&langs_count=7&theme=algolia&custom_title=Idiomas%20más%20utilizados"/>
+  <img height="140em" src="https://streak-stats.demolab.com?user=cvc90&theme=algolia" alt="GitHub Streak" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cvc90&theme=algolia&custom_title=Estadisticas">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cvc90&theme=algolia&custom_title=Estadisticas">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cvc90&theme=algolia&custom_title=Estadisticas">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cvc90&theme=algolia&custom_title=Estadisticas">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cvc90&theme=algolia&custom_title=Estadisticas">
+</div>
