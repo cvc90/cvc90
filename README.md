@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 - [GTFS2 - Integration for Home Assistant](https://github.com/vingerha/gtfs2/)
 - [Miele - Integration for Home Assistant](https://github.com/astrandb/miele/)
+- [Ics calendar - Integration for Home Assistant](https://github.com/franc6/ics_calendar/)
 - [Team Tracker - Integration for Home Assistant](https://github.com/vasqued2/ha-teamtracker/)
 - [Flightradar24 - Integration for Home Assistant](https://github.com/AlexandrErohin/home-assistant-flightradar24/)
 - [HADailySensor - Integration for Home Assistant](https://github.com/jeroenterheerdt/HADailySensor/)
@@ -136,6 +137,7 @@ Feel free to donate whatever you want to the following addresses:
 
 - [GTFS2 - Integración para Home Assistant](https://github.com/vingerha/gtfs2/)
 - [Miele - Integración para Home Assistant](https://github.com/astrandb/miele/)
+- [Ics calendar - Integración para Home Assistant](https://github.com/franc6/ics_calendar/)
 - [Team Tracker - Integración para Home Assistant](https://github.com/vasqued2/ha-teamtracker/)
 - [Flightradar24 - Integración para Home Assistant](https://github.com/AlexandrErohin/home-assistant-flightradar24/)
 - [HADailySensor - Integración para Home Assistant](https://github.com/jeroenterheerdt/HADailySensor/)
