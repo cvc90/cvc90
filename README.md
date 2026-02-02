@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">What projects have I collaborated on?</h3>
 
-- [GTFS2 - Integration for Home Assistant](https://github.com/vingerha/gtfs2/)
 - [Miele - Integration for Home Assistant](https://github.com/astrandb/miele/)
+- [GTFS2 - Integration for Home Assistant](https://github.com/vingerha/gtfs2/)
 - [Ics calendar - Integration for Home Assistant](https://github.com/franc6/ics_calendar/)
 - [Team Tracker - Integration for Home Assistant](https://github.com/vasqued2/ha-teamtracker/)
 - [Flightradar24 - Integration for Home Assistant](https://github.com/AlexandrErohin/home-assistant-flightradar24/)
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - [HASS-BlueCon - Integration for Home Assistant](https://github.com/AfonsoFGarcia/HASS-BlueCon/)
 - [TP-Link Router - Integration for Home Assistant](https://github.com/AlexandrErohin/home-assistant-tplink-router/)
 - [Relative Time Plus - Template for Home Assistant](https://github.com/TheFes/relative-time-plus)
+- [Flightradar Flight Card - Integration for Home Assistant](https://github.com/plckr/flightradar-flight-card/)
 - [Gismeteo Weather Provider - Integration for Home Assistant](https://github.com/Limych/ha-gismeteo/)
 - [NetAlertX - Network security scanner & notification framework](https://github.com/jokob-sk/NetAlertX/)
 - [OPcache-gui - A clean and responsive interface for Zend OPcache information](https://github.com/amnuts/opcache-gui/)
@@ -136,8 +137,8 @@ Feel free to donate whatever you want to the following addresses:
 
 <h3 align="left">¿En qué proyectos he colaborado?</h3>
 
-- [GTFS2 - Integración para Home Assistant](https://github.com/vingerha/gtfs2/)
 - [Miele - Integración para Home Assistant](https://github.com/astrandb/miele/)
+- [GTFS2 - Integración para Home Assistant](https://github.com/vingerha/gtfs2/)
 - [Ics calendar - Integración para Home Assistant](https://github.com/franc6/ics_calendar/)
 - [Team Tracker - Integración para Home Assistant](https://github.com/vasqued2/ha-teamtracker/)
 - [Flightradar24 - Integración para Home Assistant](https://github.com/AlexandrErohin/home-assistant-flightradar24/)
@@ -145,6 +146,7 @@ Feel free to donate whatever you want to the following addresses:
 - [HASS-BlueCon - Integración para Home Assistant](https://github.com/AfonsoFGarcia/HASS-BlueCon/) 
 - [TP-Link Router - Integración para Home Assistant](https://github.com/AlexandrErohin/home-assistant-tplink-router/)
 - [Relative Time Plus - Template para Home Assistant](https://github.com/TheFes/relative-time-plus)
+- [Flightradar Flight Card - Integración para Home Assistant](https://github.com/plckr/flightradar-flight-card/)
 - [Gismeteo Weather Provider - Integración para Home Assistant](https://github.com/Limych/ha-gismeteo/)
 - [NetAlertX - Escáner de seguridad de red y framework de notificaciones](https://github.com/jokob-sk/NetAlertX/)
 - [OPcache-gui - Una interfaz limpia y responsiva para la información de Zend OPcache](https://github.com/amnuts/opcache-gui/)
